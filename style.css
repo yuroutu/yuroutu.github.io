@@ -1,0 +1,18 @@
+.container{
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+#input{
+  height:20px;
+  margin:10px;
+  border-radius:5px;
+  padding:10px;
+}
+.todo{
+  display:flex;
+  margin:10px;
+  
+}
